@@ -1,4 +1,4 @@
-# IntellijIDEA Files #
+# PyCharm Files #
 ######################
 .idea
 .iml
@@ -12,3 +12,7 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Jupyter #
+######################
+.ipynb_checkpoints
