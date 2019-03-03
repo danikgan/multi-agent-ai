@@ -19,5 +19,5 @@ Thumbs.db
 
 # Ignoting the large dataset #
 ##############################
-train.h5
+*.h5
 *.csv
