@@ -16,3 +16,8 @@ Thumbs.db
 # Jupyter #
 ######################
 .ipynb_checkpoints
+
+# Ignoting the large dataset #
+##############################
+*.h5
+*.csv
