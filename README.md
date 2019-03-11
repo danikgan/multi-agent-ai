@@ -1,2 +1,4 @@
-# multi-agent-ai
+# Multi-Agent AI
 Real-Time Bidding mechanism.
+
+In real-time bidding for advertisement, we can take a more data-driven approach to create an optimal bidding strategy. We created four different strategies for our project: constant bidding, random bidding, linear bidding and non-linear bidding using optimal real-time bidding. When a multi-agent environment was set up with each strategy as an agent, the non-linear bidding strategy outperformed the other strategies with 91 clicks overall. We used the non-linear to create a submission for the leaderboard and we achieved rank 22 for criteria 1 and rank 8 for criteria 2 (as of writing the report on the submission day). In the future, we could try using a mixed strategy of the four strategies, or alternatively, multi-agent reinforcement learning to further improve our results while competing against the other teams.
